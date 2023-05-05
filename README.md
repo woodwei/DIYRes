@@ -1,13 +1,16 @@
 ## DIY steps and resource needed
 
-In order to speed up the process for readers to reproduce the measurement results of the paper , various resources are provided here, including circuit board files(eagle format), bill of materials, arduino programs and smartphone software. In addition, you can also find a DIY videos on youtube https://www.youtube.com/watch?v=OaiXhgOjj64&t=348s (But that video is rather old, so some content of it is out of date now). Note that the **smartphone software will upload the measurement results to my server after measurement**. If you don’t want this to happen, you can modify the [code](source_of_moniter_app.rar) and compile/build an app by yourself.
+In order to speed up the process for readers to reproduce the measurement results of the paper, various resources are provided here, including circuit board files(eagle format), bill of materials, arduino programs and smartphone software. In addition, you can also find a DIY videos on youtube https://www.youtube.com/watch?v=OaiXhgOjj64&t=348s (But that video is rather old, so some content of it is out of date now). Note that the **smartphone software will upload the measurement results to my server after measurement**. If you don’t want this to happen, you can modify the [code](source_of_moniter_app.rar) and compile/build an app by yourself.
 
 
 
-#### Circuit Board Files:
+#### Circuit Board Files
 
 1. Shield Board File：[CAMOutputs_of_shield](CAMOutputs_of_shield.rar)
+
 2. Probe Board File：[CAMOutputs_of_probebrd](CAMOutputs_of_probebrd.rar)
+
+   
 
 #### Bill of Materials
 
